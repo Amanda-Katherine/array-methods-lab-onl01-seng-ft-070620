@@ -4,11 +4,11 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array.sort(array)
+  array.sort
 end
-binding.pry
+#binding.pry
 def using_reverse(array)
-
+  array.reverse
 end
 
 def using_first(array)
