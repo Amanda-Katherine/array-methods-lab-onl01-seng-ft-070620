@@ -2,7 +2,7 @@ require 'pry'
 def using_include(array, element)
 
 end
-binding.pry
+#binding.pry
 def using_sort(array)
 
 end
