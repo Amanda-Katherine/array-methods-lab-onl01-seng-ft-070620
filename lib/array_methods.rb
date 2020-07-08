@@ -2,11 +2,11 @@ require 'pry'
 def using_include(array, element)
   array.include?(element)
 end
-#binding.pry
-def using_sort(array)
-  array.sort
-end
 
+def using_sort(array)
+  array.sort(array)
+end
+#binding.pry
 def using_reverse(array)
 
 end
